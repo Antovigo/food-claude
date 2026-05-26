@@ -13,13 +13,13 @@ Install the plugin:
 ## Use
 
 ```
-/order-dinner
+/food-claude:order
 ```
 
 or directly include your preferences:
 
 ```
-/order-dinner no chicken, add as much desert as possible within budget
+/food-claude:order no chicken, add as much desert as possible within budget
 ```
 
 ## Uninstall

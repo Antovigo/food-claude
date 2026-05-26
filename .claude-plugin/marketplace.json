@@ -1,0 +1,13 @@
+{
+  "name": "food-claude",
+  "owner": {
+    "name": "Antoine"
+  },
+  "plugins": [
+    {
+      "name": "food-claude",
+      "source": "./",
+      "description": "Auto-pick meals on Just Eat Business using natural-language preferences. Drives the site via Playwright, commits each day's selection (editable until deadline), and ends with a summary you can validate."
+    }
+  ]
+}

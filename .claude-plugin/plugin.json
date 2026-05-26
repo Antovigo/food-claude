@@ -1,0 +1,5 @@
+{
+  "name": "food-claude",
+  "description": "Auto-pick meals on Just Eat Business using natural-language preferences. Drives the site via Playwright, commits each day's selection (editable until deadline), and ends with a summary you can validate.",
+  "version": "0.1.0"
+}
